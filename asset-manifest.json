@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Yeti/static/css/main.bb98a4a5.css",
-    "main.js": "/Yeti/static/js/main.f0b7eca0.js",
+    "main.js": "/Yeti/static/js/main.a6b1303c.js",
     "index.html": "/Yeti/index.html",
     "main.bb98a4a5.css.map": "/Yeti/static/css/main.bb98a4a5.css.map",
-    "main.f0b7eca0.js.map": "/Yeti/static/js/main.f0b7eca0.js.map"
+    "main.a6b1303c.js.map": "/Yeti/static/js/main.a6b1303c.js.map"
   },
   "entrypoints": [
     "static/css/main.bb98a4a5.css",
-    "static/js/main.f0b7eca0.js"
+    "static/js/main.a6b1303c.js"
   ]
 }
