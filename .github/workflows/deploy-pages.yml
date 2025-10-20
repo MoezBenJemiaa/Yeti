@@ -1,4 +1,4 @@
-# Build and deploy to GitHub Pages using official Pages actions
+# Build and deploy to GitHub Pages using  Pages actions
 # Triggers on pushes to main
 name: Build and deploy to GitHub Pages
 
