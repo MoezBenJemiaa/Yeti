@@ -11,9 +11,9 @@ function App() {
     <>
     <Router basename="/Yeti">
         <Routes>
-          <Route path="/" element={<LoginPage />} />
+          <Route path="/" element={<NotFoundPage />} />
           <Route path="/NF" element={<NotFoundPage />} />
-          <Route path="*" element={<NotFoundPage />} />
+          <Route path="/*" element={<NotFoundPage />} />
         </Routes>
       </Router>
     </>
