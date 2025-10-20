@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yeti/static/css/main.bb98a4a5.css",
+    "main.js": "/yeti/static/js/main.053f4311.js",
+    "index.html": "/yeti/index.html",
+    "main.bb98a4a5.css.map": "/yeti/static/css/main.bb98a4a5.css.map",
+    "main.053f4311.js.map": "/yeti/static/js/main.053f4311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb98a4a5.css",
+    "static/js/main.053f4311.js"
+  ]
+}
