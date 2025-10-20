@@ -1,6 +1,6 @@
 # Yeti — Animated Login UI
 
-Live demo: https://moezbenjemiaa.github.io/yeti/
+Live demo: https://moezbenjemiaa.github.io/Yeti/
 
 A playful animated "Yeti" login built with React and GSAP. The mascot reacts to user input:
 - Eyes follow the caret in the email input
@@ -73,7 +73,7 @@ npm start
 yarn start
 ```
 
-Open http://localhost:3000 or visit the live demo: https://moezbenjemiaa.github.io/yeti/
+Open http://localhost:3000 or visit the live demo: https://moezbenjemiaa.github.io/Yeti/
 
 ---
 
@@ -114,4 +114,4 @@ This project is provided as-is. Add a LICENSE file if you want to apply an expli
 ---
 
 Maintainer: MoezBenJemiaa  
-Live demo: https://moezbenjemiaa.github.io/yeti/
+Live demo: https://moezbenjemiaa.github.io/Yeti/
