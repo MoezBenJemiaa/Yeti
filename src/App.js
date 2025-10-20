@@ -11,7 +11,7 @@ function App() {
     <>
       <Routes basename="/Yeti">
         <Route path="/NF" element={<NotFoundPage />} />
-        <Route path="/*" element={<LoginPage />} />
+        <Route path="/" element={<LoginPage />} />
       </Routes>
     </>
   );
