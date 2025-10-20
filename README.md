@@ -9,35 +9,7 @@ A playful animated "Yeti" login built with React and GSAP. The mascot reacts to 
 
 ---
 
-## Yeti icons
 
-Inline SVG icons so the README shows a small yeti flourish on GitHub:
-
-<!-- small -->
-<svg width="64" height="64" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="margin-right:8px">
-  <circle cx="100" cy="100" r="90" fill="#DDF1FA" stroke="#3A5E77" stroke-width="4"/>
-  <circle cx="76" cy="86" r="8" fill="#3A5E77"/>
-  <circle cx="124" cy="86" r="8" fill="#3A5E77"/>
-  <path d="M70 130 Q100 154 130 130" stroke="#3a5e77" stroke-width="6" fill="none" stroke-linecap="round"/>
-</svg>
-
-<!-- medium -->
-<svg width="84" height="84" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="margin-right:8px">
-  <circle cx="100" cy="100" r="96" fill="#a9ddf3" stroke="#3a5e77" stroke-width="4"/>
-  <ellipse cx="80" cy="82" rx="12" ry="14" fill="#3a5e77"/>
-  <ellipse cx="120" cy="82" rx="12" ry="14" fill="#3a5e77"/>
-  <path d="M70 130 Q100 155 130 130" stroke="#3a5e77" stroke-width="6" fill="none" stroke-linecap="round"/>
-</svg>
-
-<!-- round -->
-<svg width="72" height="72" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="100" cy="100" r="88" fill="#fff" stroke="#3A5E77" stroke-width="5"/>
-  <path d="M60 120 Q100 155 140 120" fill="#fff" stroke="#3a5e77" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="80" cy="85" r="8" fill="#3a5e77"/>
-  <circle cx="120" cy="85" r="8" fill="#3a5e77"/>
-</svg>
-
----
 
 ## Features
 
