@@ -9,11 +9,13 @@ import NotFoundPage from "./404/404";
 function App() {
   return (
     <>
+    <Router basename="/Yeti">
         <Routes>
           <Route path="/" element={<LoginPage />} />
           <Route path="NF" element={<NotFoundPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
+      </Router>
     </>
   );
 }
