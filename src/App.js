@@ -1,4 +1,4 @@
-import { Routes, Route, useParams, useLocation } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import './App.css';
 import LoginPage from "./Login/YetiLogin";
@@ -9,10 +9,11 @@ import NotFoundPage from "./404/404";
 function App() {
   return (
     <>
-      <Routes basename="/Yeti">
-        <Route path="/NF" element={<NotFoundPage />} />
-        <Route path="/" element={<LoginPage />} />
-      </Routes>
+        <Routes>
+          <Route path="/" element={<LoginPage />} />
+          <Route path="NF" element={<NotFoundPage />} />
+          <Route path="*" element={<NotFoundPage />} />
+        </Routes>
     </>
   );
 }
