@@ -977,7 +977,7 @@ const YetiLogin = () => {
 
     // For now just log and redirect as before
     console.log("Logging in with", email);
-    window.location.href = "/404";
+    window.location.href = "/Yeti/404";
   };
 
   useEffect(() => {

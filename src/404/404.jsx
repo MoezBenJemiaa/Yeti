@@ -102,7 +102,7 @@ useEffect(() => {
       </div>
       <button 
           className="goHomeButton" 
-          onClick={() => navigate('/*')}
+          onClick={() => navigate('/')}
         >
           Go Back to Home
         </button>
