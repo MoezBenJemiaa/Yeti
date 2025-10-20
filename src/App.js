@@ -9,7 +9,7 @@ import NotFoundPage from "./404/404";
 function App() {
   return (
     <>
-      <Routes>
+      <Routes basename="/Yeti">
         <Route path="/NF" element={<NotFoundPage />} />
         <Route path="/*" element={<LoginPage />} />
       </Routes>
