@@ -1,11 +1,11 @@
 # Yeti
-<img width="665" height="815" alt="image" src="https://github.com/user-attachments/assets/605999e8-aab5-4b37-97e3-7ddd7c59ba40" />
-
-<img width="1776" height="782" alt="image" src="https://github.com/user-attachments/assets/08dfab09-3f22-450d-a1a8-d652d7571c0d" />
-
 A React-based single-page application (SPA) landing page template — ready to preview and deploy with GitHub Pages.
 
 Live demo: https://moezbenjemiaa.github.io/Yeti/
+
+<img width="665" height="815" alt="image" src="https://github.com/user-attachments/assets/605999e8-aab5-4b37-97e3-7ddd7c59ba40" />
+
+<img width="1776" height="782" alt="image" src="https://github.com/user-attachments/assets/08dfab09-3f22-450d-a1a8-d652d7571c0d" />
 
 ---
 
