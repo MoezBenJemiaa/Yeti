@@ -1,4 +1,6 @@
 # Yeti
+<img width="665" height="815" alt="image" src="https://github.com/user-attachments/assets/605999e8-aab5-4b37-97e3-7ddd7c59ba40" />
+
 
 A React-based single-page application (SPA) landing page template — ready to preview and deploy with GitHub Pages.
 
